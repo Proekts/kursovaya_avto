@@ -6,10 +6,10 @@
 ID – индетификатор автомобиля  
 Color – цвет  
 Horsepower – количество лошадиных сил  
-ID box type – идентификатор типа коробки  
-ID type of configuration – идентификатор комплектации  
-ID body type – идентификатор кузова  
-ID brand – идентификатор марки  
+ID box type – индентификатор типа коробки  
+ID type of configuration – индентификатор комплектации  
+ID body type – индентификатор кузова  
+ID brand – индентификатор марки  
 
 ## Type of box  
 ### Описание  
